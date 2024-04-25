@@ -8,7 +8,7 @@ from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.prompts import ChatPromptTemplate
-from langchain.output_parsers import StrOutputParser
+# from langchain.output_parsers import StrOutputParser
 import pickle
 
 # Set page configuration

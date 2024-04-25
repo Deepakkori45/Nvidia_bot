@@ -2,4 +2,4 @@ streamlit
 langchain_nvidia_ai_endpoints
 langchain_community
 langchain
-
+unstructured

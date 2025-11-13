@@ -18,7 +18,7 @@ st.set_page_config(layout="wide")
 DOCS_DIR = os.path.abspath("./uploaded_docs")
 if not os.path.exists(DOCS_DIR):
     os.makedirs(DOCS_DIR)
-
+ 
 # Sidebar for uploading documents
 with st.sidebar:
     st.subheader("Add to the Knowledge Base")

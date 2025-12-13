@@ -11,6 +11,7 @@ from langchain.prompts import ChatPromptTemplate
 # from langchain.output_parsers import StrOutputParser
 import pickle
 
+
 # Set page configuration
 st.set_page_config(layout="wide")
 
